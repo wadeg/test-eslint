@@ -1,0 +1,18 @@
+{
+  "name": "test-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@variablecolor/eslint-config-react-native": "^1.0.2",
+    "eslint": "^7.23.0",
+    "typescript": "^4.2.3"
+  }
+}
